@@ -1,0 +1,2 @@
+# kos-kita
+Projek biasa
